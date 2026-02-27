@@ -26,12 +26,12 @@ const antilienCommand = {
 ╰━━━━━━━━━━━━━━━┈⪨
 
 ┌── ✦ *COMMANDES* ✦
-├ ${prefix}antilien on - Activer
-├ ${prefix}antilien off - Désactiver
-├ ${prefix}antilien set delete - Supprimer les liens
-├ ${prefix}antilien set kick - Expulser les membres
-├ ${prefix}antilien set warn - Avertir (3 avertissements = kick)
-├ ${prefix}antilien get - Voir configuration
+├ ${prefix}antilink on - Activer
+├ ${prefix}antilink off - Désactiver
+├ ${prefix}antilink set delete - Supprimer les liens
+├ ${prefix}antilink set kick - Expulser les membres
+├ ${prefix}antilink set warn - Avertir (3 avertissements = kick)
+├ ${prefix}antilink get - Voir configuration
 └────────────────
 
 ┌── ✦ *INFORMATIONS* ✦
